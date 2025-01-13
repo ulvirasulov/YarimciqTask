@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "eUZQw2tmK4I4BwWVF3EauQQ3vB6SOi0RXVgViqfQH+iV/qH4HPLh9Je9TipAtCHbtEvluC/k25Bc71P64xM7dg==",
+  "dgSpecHash": "O6Z6DSw7VH2ywzeevFSJowhy3MiqDdfZfmB/ZeEZgW641nUxb+2GnhZcZWNOeCpFWawgcPbYLRihEplGz+EYPA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\classtime\\Desktop\\BlogAppAPI\\BlogApp.API\\BlogApp.API.csproj",
+  "projectFilePath": "C:\\Users\\classtime\\Desktop\\Task\\BlogApp.API\\BlogApp.API.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\classtime\\.nuget\\packages\\automapper\\13.0.1\\automapper.13.0.1.nupkg.sha512",
     "C:\\Users\\classtime\\.nuget\\packages\\azure.core\\1.38.0\\azure.core.1.38.0.nupkg.sha512",

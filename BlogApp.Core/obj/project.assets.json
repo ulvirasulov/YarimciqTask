@@ -821,11 +821,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\classtime\\Desktop\\BlogAppAPI\\BlogApp.Core\\BlogApp.Core.csproj",
+      "projectUniqueName": "C:\\Users\\classtime\\Desktop\\Task\\BlogApp.Core\\BlogApp.Core.csproj",
       "projectName": "BlogApp.Core",
-      "projectPath": "C:\\Users\\classtime\\Desktop\\BlogAppAPI\\BlogApp.Core\\BlogApp.Core.csproj",
+      "projectPath": "C:\\Users\\classtime\\Desktop\\Task\\BlogApp.Core\\BlogApp.Core.csproj",
       "packagesPath": "C:\\Users\\classtime\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\classtime\\Desktop\\BlogAppAPI\\BlogApp.Core\\obj\\",
+      "outputPath": "C:\\Users\\classtime\\Desktop\\Task\\BlogApp.Core\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
